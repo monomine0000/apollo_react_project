@@ -49,4 +49,5 @@ If you want to launch the application, remember to run the above server first an
 
  - `npm run generate-graphql-types`
 
-    It generates TypeScript Interfaces based on earlier downloaded GraphQL Schema and graphql files located at: `client/src/graphql` and save them in: `client/src/interfaces.ts`
+    It generates TypeScript Interfaces based on earlier downloaded GraphQL Schema and graphql files located at: `client/src/graphql` and save them in: `client/src/interfaces.ts`.
+   Please, contact me if you need some help about my projects
